@@ -198,7 +198,7 @@ By combining NLP preprocessing, TF-IDF vectorization, and Cosine Similarity, the
 This project demonstrates the practical use of NLP and machine learning concepts in a student-focused recommendation system.
 
 ### Demo Video
-
+https://youtu.be/_ZbHQmGvqqA
 
 ## 👩‍💻 Author
 
